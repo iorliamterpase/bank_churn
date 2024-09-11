@@ -1,6 +1,6 @@
 import streamlit as st
 import tensorflow as tf
-from tensorflow.keras.models import load_model
+from tf.keras.models import load_model # type: ignore
 
 
 
